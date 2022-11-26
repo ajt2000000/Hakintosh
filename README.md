@@ -13,5 +13,6 @@
  <h3>Youtube</h3>
  <hr>
  <h5>とある学生の改造日記の動画です [ 自分で作るのが難しかったからです ]
-<hr>
- [![https://www.geekrar.com/wp-content/uploads/2020/05/How-to-Install-macOS-Mojave-On-PC-Hackintosh-min.jpg](https://img.youtube.com/vi/n58W69M1SPk&list=WL&index=1&t=74s/0.jpg)](https://www.youtube.com/watch?v=n58W69M1SPk&list=WL&index=1&t=74s)
+ <a href="https://youtu.be/n58W69M1SPk"><h4>【Hackintosh】普通のパソコンをMacBookに?! macOS Mojaveをインストールしてみた #1</h4>
+
+【Hackintosh】普通のパソコンをMacBookに?! macOS Mojaveをインストールしてみた #1
