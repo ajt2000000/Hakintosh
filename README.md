@@ -13,6 +13,9 @@
  <h3>Youtube</h3>
  <hr>
  <h5>とある学生の改造日記の動画です [ 自分で作るのが難しかったからです ]
+ {::nomarkdown}
+ <!-- HTML CODE-->
  <iframe width="560" height="315" src="https://www.youtube.com/embed/n58W69M1SPk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
  <iframe width="560" height="315" src="https://www.youtube.com/embed/VBBBbY_UQp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+{:/}
