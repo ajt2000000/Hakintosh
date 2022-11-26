@@ -16,6 +16,8 @@
  
  
  <a href="https://youtu.be/n58W69M1SPk">【Hackintosh】普通のパソコンをMacBookに?! macOS Mojaveをインストールしてみた #1/<a>
+  
+  
  <a href="https://www.youtube.com/watch?v=VBBBbY_UQp4">【Hackintosh】普通のパソコンをMacBookに?! macOS Mojaveをインストールしてみた #2/<a>
 
 
