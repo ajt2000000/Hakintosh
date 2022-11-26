@@ -1,1 +1,1 @@
-# Hakintosh
+# Hakintosh install Guide
