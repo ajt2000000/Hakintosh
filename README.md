@@ -19,5 +19,16 @@
   
   
  <a href="https://www.youtube.com/watch?v=VBBBbY_UQp4">【Hackintosh】普通のパソコンをMacBookに?! macOS Mojaveをインストールしてみた #2/<a>
+ <hr>
+  <h3>インストール方法</h3>
+ <hr>
+ 1. Image Download を押してください
+ 2. 7zipで解凍してください
+ 3. balenaEtcher でUSBに入れてください
+ 4. Dynabook の場合はF12キーを連打してください 電源おとしてから
+ 5. あとはインストールしてください
+ 6. 初期設定をしてください
+ <hr>
+ 
 
 
