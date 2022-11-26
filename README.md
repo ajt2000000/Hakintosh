@@ -13,6 +13,6 @@
  <h3>Youtube</h3>
  <hr>
  <h5>とある学生の改造日記の動画です [ 自分で作るのが難しかったからです ]
- <a href="https://youtu.be/n58W69M1SPk"><h4>【Hackintosh】普通のパソコンをMacBookに?! macOS Mojaveをインストールしてみた #1</h4>
+ <a href="https://youtu.be/n58W69M1SPk">【Hackintosh】普通のパソコンをMacBookに?! macOS Mojaveをインストールしてみた #1/<a>
 
 【Hackintosh】普通のパソコンをMacBookに?! macOS Mojaveをインストールしてみた #1
