@@ -13,9 +13,4 @@
  <h3>Youtube</h3>
  <hr>
  <h5>とある学生の改造日記の動画です [ 自分で作るのが難しかったからです ]
- {::nomarkdown}
- <!-- HTML CODE-->
- <iframe  frameborder="0" 
-        style=" width: 100%; height: 110%;" src="https://www.youtube.com/embed/n58W69M1SPk">
-      </iframe>
 [![サービス紹介動画](https://user-images.githubusercontent.com/84756197/173222007-3aefa245-4c0e-45e6-9855-91f0e3be89ed.png)]([https://www.youtube.com/embed/n58W69M1SPk ]
